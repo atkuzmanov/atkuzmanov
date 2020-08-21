@@ -2,23 +2,21 @@
 
 <img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/abstract-1245745.jpg" alt="cover example temporary" width="320" height="200"/>
 
-## - [Check out my GitHub](https://github.com/atkuzmanov)
+- [Check out my GitHub](https://github.com/atkuzmanov)
 
-## - [Have you checked out my LinkedIn?!](https://www.linkedin.com/in/atkuzmanov/)
+- [Have you checked out my LinkedIn?!](https://www.linkedin.com/in/atkuzmanov/)
 
-## - [Hang out with me on Twitter](https://twitter.com/atkuzmanov)
+- [Hang out with me on Twitter](https://twitter.com/atkuzmanov)
 
-## - [My website / Business card](https://atkuzmanov.wordpress.com/)
+- [My website / Business card](https://atkuzmanov.wordpress.com/)
 
-## - [LinkTree](https://linktr.ee/atkuzmanov)
+- [LinkTree](https://linktr.ee/atkuzmanov)
 
-## - [StackOverflow](https://stackoverflow.com/users/2356062/atkuzmanov)
+- [StackOverflow](https://stackoverflow.com/users/2356062/atkuzmanov)
 
-## - [Instagram](https://www.instagram.com/atkuzmanov/)
+- [Instagram](https://www.instagram.com/atkuzmanov/)
 
-## - [Found anything useful?! Buy me a cup of coffee if you feel like it. Thanks!️](https://sites.google.com/view/atkuzmanov/home)
-
-☕ 💻
+- [Found anything useful?! Buy me a cup of coffee if you feel like it. Thanks!️](https://sites.google.com/view/atkuzmanov/home) ☕
 
 <img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-pretty.png" alt="example temporary" width="150" height="100"/>
 
@@ -33,6 +31,9 @@ References
 ---
 
 <!--
+
+👋 😃
+☕ 💻
 
 <img src="./resources/abstract-1245745.jpg" alt="example temporary" width="640" height="350"/>
 
