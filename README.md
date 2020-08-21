@@ -1,20 +1,34 @@
-# Hi there, nice to meet you! 👋
+# Hi there, nice to meet you! 👋 😃
 
-[Check out my GitHub](https://github.com/atkuzmanov)
+<img src="./resources/abstract-1245745.jpg" alt="P" width="640" height="350"/>
 
-[Have you checked out my LinkedIn?!](https://www.linkedin.com/in/atkuzmanov/)
+## - [Check out my GitHub](https://github.com/atkuzmanov)
 
-[Hang out with me on Twitter](https://twitter.com/atkuzmanov)
+## - [Have you checked out my LinkedIn?!](https://www.linkedin.com/in/atkuzmanov/)
 
-[My website / Business card](https://atkuzmanov.wordpress.com/)
+## - [Hang out with me on Twitter](https://twitter.com/atkuzmanov)
 
-[LinkTree](https://linktr.ee/atkuzmanov)
+## - [My website / Business card](https://atkuzmanov.wordpress.com/)
 
-[StackOverflow](https://stackoverflow.com/users/2356062/atkuzmanov)
+## - [LinkTree](https://linktr.ee/atkuzmanov)
 
-[Instagram](https://www.instagram.com/atkuzmanov/)
+## - [StackOverflow](https://stackoverflow.com/users/2356062/atkuzmanov)
 
-[Found anything useful?! Buy me a cup of coffee if you feel like it. Thanks!️](https://sites.google.com/view/atkuzmanov/home)
+## - [Instagram](https://www.instagram.com/atkuzmanov/)
+
+## - [Found anything useful?! Buy me a cup of coffee if you feel like it. Thanks!️](https://sites.google.com/view/atkuzmanov/home)
+
+☕ 💻
+
+<img src="./resources/atkuzmanov-pretty.png" alt="P" width="150" height="100"/>
+
+---
+
+<blockquote>
+References
+
+<https://pixabay.com/photos/abstract-art-modern-art-design-1245745/>
+</blockquote>
 
 ---
 
