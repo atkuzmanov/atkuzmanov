@@ -20,7 +20,7 @@
 
 <img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-pretty.png" alt="example temporary" width="150" height="100"/>
 
-<img src="./resources/atkuzmanov%20linktr%202020-08-13.png" alt="example temporary" width="100" height="100"/>
+<img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov%20linktr%202020-08-13.png" alt="example temporary" width="100" height="100"/>
 
 ---
 
