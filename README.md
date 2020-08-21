@@ -1,7 +1,5 @@
 # Hi there, nice to meet you! 👋 😃
 
-<img src="./resources/abstract-1245745.jpg" alt="P" width="640" height="350"/>
-
 ## - [Check out my GitHub](https://github.com/atkuzmanov)
 
 ## - [Have you checked out my LinkedIn?!](https://www.linkedin.com/in/atkuzmanov/)
@@ -12,6 +10,8 @@
 
 ## - [LinkTree](https://linktr.ee/atkuzmanov)
 
+<img src="./resources/atkuzmanov%20linktr%202020-08-13.png" alt="P" width="150" height="150"/>
+
 ## - [StackOverflow](https://stackoverflow.com/users/2356062/atkuzmanov)
 
 ## - [Instagram](https://www.instagram.com/atkuzmanov/)
@@ -19,8 +19,6 @@
 ## - [Found anything useful?! Buy me a cup of coffee if you feel like it. Thanks!️](https://sites.google.com/view/atkuzmanov/home)
 
 ☕ 💻
-
-<img src="./resources/atkuzmanov-pretty.png" alt="P" width="150" height="100"/>
 
 ---
 
@@ -33,6 +31,13 @@ References
 ---
 
 <!--
+
+<img src="./resources/abstract-1245745.jpg" alt="P" width="640" height="350"/>
+
+<img src="./resources/atkuzmanov-pretty.png" alt="P" width="150" height="100"/>
+
+---
+
 **atkuzmanov/atkuzmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
