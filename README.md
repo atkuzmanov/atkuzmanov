@@ -10,7 +10,7 @@
 
 ## - [LinkTree](https://linktr.ee/atkuzmanov)
 
-![linktr](resources/atkuzmanov%20linktr%202020-08-13.png)
+![linktr](atkuzmanov%20linktr%202020-08-13.png)
 
 ## - [StackOverflow](https://stackoverflow.com/users/2356062/atkuzmanov)
 
