@@ -1,6 +1,6 @@
 # Hi there, nice to meet you! 👋 😃
 
-<img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/abstract-1245745.jpg" alt="cover example temporary" width="640" height="350"/>
+<img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/abstract-1245745.jpg" alt="cover example temporary" width="320" height="200"/>
 
 ## - [Check out my GitHub](https://github.com/atkuzmanov)
 
