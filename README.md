@@ -1,6 +1,6 @@
 # Hi there, nice to meet you! 👋 😃
 
-<img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/abstract-1245745.jpg" alt="cover example temporary" width="320" height="200"/>
+<img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" alt="cover example temporary" width="640" height="240"/>
 
 - [Check out my GitHub](https://github.com/atkuzmanov)
 
@@ -26,6 +26,10 @@
 References
 
 <https://pixabay.com/photos/abstract-art-modern-art-design-1245745/>
+
+<https://giphy.com/gifs/pixels-github-commit-26u4nJPf0JtQPdStq>
+
+<https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif>
 </blockquote>
 
 ---
@@ -40,6 +44,8 @@ References
 <img src="./resources/atkuzmanov%20linktr%202020-08-13.png" alt="example temporary" width="150" height="150"/>
 
 <img src="./resources/atkuzmanov-pretty.png" alt="example temporary" width="150" height="100"/>
+
+<img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" alt="cover example temporary" width="640" height="240"/>
 
 ---
 
