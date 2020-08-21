@@ -10,7 +10,7 @@
 
 ## - [LinkTree](https://linktr.ee/atkuzmanov)
 
-<img src="./resources/atkuzmanov%20linktr%202020-08-13.png" alt="P" width="150" height="150"/>
+![linktr](./resources/atkuzmanov%20linktr%202020-08-13.png)
 
 ## - [StackOverflow](https://stackoverflow.com/users/2356062/atkuzmanov)
 
@@ -33,6 +33,8 @@ References
 <!--
 
 <img src="./resources/abstract-1245745.jpg" alt="P" width="640" height="350"/>
+
+<img src="./resources/atkuzmanov%20linktr%202020-08-13.png" alt="P" width="150" height="150"/>
 
 <img src="./resources/atkuzmanov-pretty.png" alt="P" width="150" height="100"/>
 
