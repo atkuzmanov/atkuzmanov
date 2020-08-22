@@ -22,6 +22,15 @@
 
 ---
 
+***"You need to rescue the princess with code - but sometimes your code doesn't work and the princess is a dragon and you're a fish. Welcome to programming:"*** -<https://toggl.com/programming-princess/>
+
+---
+
+***P.S.
+Lost all my repositories, so some things here could be ancient remnants I salvaged, despite the new date.***
+
+---
+
 <blockquote>
 References
 
@@ -30,6 +39,8 @@ References
 <https://giphy.com/gifs/pixels-github-commit-26u4nJPf0JtQPdStq>
 
 <https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif>
+
+<https://toggl.com/programming-princess/>
 </blockquote>
 
 ---
