@@ -26,14 +26,10 @@
 
 ---
 
-<!--
-
 ***P.S.
 Lost all my repositories, so some things here could be ancient remnants I salvaged, despite the new date.***
 
 ---
-
--->
 
 <blockquote>
 References
