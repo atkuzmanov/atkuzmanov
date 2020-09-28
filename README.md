@@ -18,6 +18,8 @@
 
 - [Found anything useful?! Buy me a cup of coffee if you feel like it. Thanks!️](https://sites.google.com/view/atkuzmanov/home) ☕
 
+- [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V22AJ80)
+
 <img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-pretty.png" alt="example temporary" width="170" height="120"/> <img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov%20linktr%202020-08-13.png" alt="example temporary" width="150" height="150"/>
 
 ---
