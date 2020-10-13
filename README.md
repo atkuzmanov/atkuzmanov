@@ -22,6 +22,10 @@
 
 <img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-pretty.png" alt="example temporary" width="170" height="120"/> <img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov%20linktr%202020-08-13.png" alt="example temporary" width="150" height="150"/>
 
+[![atkuzmanov's github stats](https://github-readme-stats.vercel.app/api?username=atkuzmanov&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atkuzmanov&hide=Rich%20Text%20Format,html,css,python,javascript&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ***"You need to rescue the princess with code - but sometimes your code doesn't work and the princess is a dragon and you're a fish. Welcome to programming:"*** -<https://toggl.com/programming-princess/>
@@ -44,6 +48,8 @@ References
 <https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif>
 
 <https://toggl.com/programming-princess/>
+
+<https://github.com/anuraghazra/github-readme-stats>
 </blockquote>
 
 ---
