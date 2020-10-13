@@ -1,6 +1,6 @@
-# Hi there, nice to meet you! 👋 😃
+# <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" alt="cover example temporary" width="480" height="184"/> 
 
-<img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" alt="cover example temporary" width="480" height="184"/>
+Hi there, nice to meet you! 👋 😃
 
 - [Check out my GitHub](https://github.com/atkuzmanov)
 
