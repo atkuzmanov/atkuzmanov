@@ -38,19 +38,24 @@ Hi there, nice to meet you! 👋 😃
 
 ---
 
-<blockquote>
-References
+<details>
+  <summary> References & more </summary>
+  <br/>
 
-<https://pixabay.com/photos/abstract-art-modern-art-design-1245745/>
+  <blockquote>
+  References
 
-<https://giphy.com/gifs/pixels-github-commit-26u4nJPf0JtQPdStq>
+  <https://pixabay.com/photos/abstract-art-modern-art-design-1245745/>
 
-<https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif>
+  <https://giphy.com/gifs/pixels-github-commit-26u4nJPf0JtQPdStq>
 
-<https://toggl.com/programming-princess/>
+  <https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif>
 
-<https://github.com/anuraghazra/github-readme-stats>
-</blockquote>
+  <https://toggl.com/programming-princess/>
+
+  <https://github.com/anuraghazra/github-readme-stats>
+  </blockquote>
+</details>
 
 ---
 
