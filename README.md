@@ -59,6 +59,7 @@
   </blockquote>
 
   <strong><i>You found this hidden Easter egg gif! AWESOME!</i></strong>
+  
   <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" alt="cover example temporary" width="480" height="184"/> 
 
 </details>
