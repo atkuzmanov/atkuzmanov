@@ -39,7 +39,7 @@
 ---
 
 <details>
-  <summary> References & more </summary>
+  <summary> <strong>References & more</strong> </summary>
   <br/>
 
   <blockquote>
