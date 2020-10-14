@@ -20,7 +20,7 @@ Hi there, nice to meet you! 👋 😃
 
 - [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V22AJ80)
 
-<img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-pretty.png" alt="example temporary" width="170" height="120"/> <img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov%20linktr%202020-08-13.png" alt="example temporary" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-pretty.png" alt="example temporary" width="170" height="120"/> <img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov%20linktr%202020-08-13.png" alt="example temporary" width="150" height="150"/> <a href="https://www.youracclaim.com/badges/77eb4480-a202-44ae-85da-fb729e84081d/public_url"><img src="" alt="example temporary" width="150" height="150"/></a>
 
 [![atkuzmanov's github stats](https://github-readme-stats.vercel.app/api?username=atkuzmanov&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
