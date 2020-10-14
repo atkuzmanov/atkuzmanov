@@ -58,7 +58,7 @@
   <https://www.youracclaim.com/badges/77eb4480-a202-44ae-85da-fb729e84081d/public_url>
   </blockquote>
 
-  <strong><i>CONGRATULATIONS! You found this hidden Easter egg gif!</i></strong>
+  <strong><i>You found this hidden Easter egg gif! AWESOME!</i></strong>
   <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" alt="cover example temporary" width="480" height="184"/> 
 
 </details>
