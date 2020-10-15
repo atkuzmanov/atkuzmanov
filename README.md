@@ -1,6 +1,6 @@
-# Hi there, nice to meet you! 👋 😃
+# Hi there, nice to meet you! 👋 😃 
 
-- [Check out my GitHub](https://github.com/atkuzmanov)
+- [Check out my GitHub](https://github.com/atkuzmanov) 
 
 - [Have you checked out my LinkedIn?!](https://www.linkedin.com/in/atkuzmanov/)
 
@@ -21,11 +21,8 @@
 <a href="https://atkuzmanov.wordpress.com/"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-pretty.png" alt="stylized name" width="170" height="120"/></a>
 <a href="https://www.youracclaim.com/badges/77eb4480-a202-44ae-85da-fb729e84081d/public_url"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-ocjp-oracle-certified-professional-java-se-6-programmer.png" alt="ocjp badge" width="150" height="150"/></a>
 <a href="https://linktr.ee/atkuzmanov"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov%20linktr%202020-08-13.png" alt="linktree qr code" width="150" height="150"/></a>
-
 [![atkuzmanov's github stats](https://github-readme-stats.vercel.app/api?username=atkuzmanov&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atkuzmanov&hide=Rich%20Text%20Format,html,css,python,javascript&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=atkuzmanov)
 
 ---
@@ -67,19 +64,12 @@
 ---
 
 <!--
-
 👋 😃
 ☕ 💻
-
 <img src="./resources/abstract-1245745.jpg" alt="example temporary" width="640" height="350"/>
-
 <img src="./resources/atkuzmanov%20linktr%202020-08-13.png" alt="example temporary" width="150" height="150"/>
-
 <img src="./resources/atkuzmanov-pretty.png" alt="example temporary" width="150" height="100"/>
-
 <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" alt="cover example temporary" width="480" height="184"/>
-
----
 
 **atkuzmanov/atkuzmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -93,4 +83,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!-- Github Page Visit Count
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=atkuzmanov)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=atkuzmanov" alt="atkuzmanov" /></p>
 -->
