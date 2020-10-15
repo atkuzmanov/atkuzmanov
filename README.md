@@ -26,6 +26,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atkuzmanov&hide=Rich%20Text%20Format,html,css,python,javascript&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=atkuzmanov)
+
 ---
 
 ***"You need to rescue the princess with code - but sometimes your code doesn't work and the princess is a dragon and you're a fish. Welcome to programming:"*** -<https://toggl.com/programming-princess/>
