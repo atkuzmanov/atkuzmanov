@@ -1,4 +1,4 @@
-# Hi there, nice to meet you! 👋 😃 
+# Hi there, nice to meet you!
 
 - [Check out my GitHub](https://github.com/atkuzmanov) 
 
