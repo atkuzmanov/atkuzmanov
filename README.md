@@ -42,6 +42,7 @@
 
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=atkuzmanov)
 
+<!--
 <table border="0" cellspacing="1" cellpadding="2">
   <tbody>
     <tr>
@@ -191,6 +192,7 @@
     </tr>
   </tbody>
 </table>
+-->
 
 ---
 
