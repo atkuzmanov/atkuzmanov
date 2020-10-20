@@ -1,5 +1,10 @@
 # Hi there, nice to meet you!
 
+<table border="0" cellspacing="1" cellpadding="2">
+  <tbody>
+    <tr>
+      <td>
+      
 - [Check out my GitHub](https://github.com/atkuzmanov) 
 
 - [Have you checked out my LinkedIn?!](https://www.linkedin.com/in/atkuzmanov/)
@@ -19,10 +24,20 @@
 - [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V22AJ80)
 
 - [Hackerrank](https://www.hackerrank.com/atkuzmanov?hr_r=1)
+      </td>
+      <td>
+        <a href="https://www.youracclaim.com/badges/77eb4480-a202-44ae-85da-fb729e84081d/public_url"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-ocjp-oracle-certified-professional-java-se-6-programmer.png" alt="ocjp badge" width="150" height="150"/></a>
+        <a href="https://linktr.ee/atkuzmanov"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov%20linktr%202020-08-13.png" alt="linktree qr code" width="150" height="150"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 
-<a href="https://www.youracclaim.com/badges/77eb4480-a202-44ae-85da-fb729e84081d/public_url"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-ocjp-oracle-certified-professional-java-se-6-programmer.png" alt="ocjp badge" width="150" height="150"/></a>
-<a href="https://linktr.ee/atkuzmanov"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov%20linktr%202020-08-13.png" alt="linktree qr code" width="150" height="150"/></a>
 
 [![atkuzmanov's github stats](https://github-readme-stats.vercel.app/api?username=atkuzmanov&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
