@@ -30,7 +30,7 @@
 
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=atkuzmanov)
 
-<table border="1" cellspacing="1" cellpadding="2">
+<table border="0" cellspacing="1" cellpadding="2">
   <tbody>
     <tr>
       <th>CURRENT STACK</th>
