@@ -118,7 +118,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://devicon.dev/devicon.git/icons/linux/linux-plain.svg" alt="linux" width="70" height="70"/>
+        <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/>
       </td>
       <td align="center"></td>
     </tr>
