@@ -5,25 +5,25 @@
     <tr>
       <td>
 
-- [Check out my GitHub](https://github.com/atkuzmanov) 
+- **[Check out my GitHub](https://github.com/atkuzmanov)**
 
-- [Have you checked out my LinkedIn?!](https://www.linkedin.com/in/atkuzmanov/)
+- **[Have you checked out my LinkedIn?!](https://www.linkedin.com/in/atkuzmanov/)**
 
-- [Hang out with me on Twitter](https://twitter.com/atkuzmanov)
+- **[Hang out with me on Twitter](https://twitter.com/atkuzmanov)**
 
-- [My website / Business card](https://atkuzmanov.wordpress.com/)
+- **[My website / Business card](https://atkuzmanov.wordpress.com/)**
 
-- [LinkTree](https://linktr.ee/atkuzmanov)
+- **[LinkTree](https://linktr.ee/atkuzmanov)**
 
-- [StackOverflow](https://stackoverflow.com/users/2356062/atkuzmanov)
+- **[StackOverflow](https://stackoverflow.com/users/2356062/atkuzmanov)**
 
-- [Instagram](https://www.instagram.com/atkuzmanov/)
+- **[Instagram](https://www.instagram.com/atkuzmanov/)**
 
-- [Found anything useful?! Buy me a cup of coffee if you feel like it. Thanks!️](https://sites.google.com/view/atkuzmanov/home) ☕
+- **[Found anything useful?! Buy me a cup of coffee if you feel like it. Thanks!️](https://sites.google.com/view/atkuzmanov/home) ☕**
 
 - [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V22AJ80)
 
-- [Hackerrank](https://www.hackerrank.com/atkuzmanov?hr_r=1)
+- **[Hackerrank](https://www.hackerrank.com/atkuzmanov?hr_r=1)**
       </td>
       <td>
         <a href="https://www.youracclaim.com/badges/77eb4480-a202-44ae-85da-fb729e84081d/public_url"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-ocjp-oracle-certified-professional-java-se-6-programmer.png" alt="ocjp badge" width="150" height="150"/></a>
