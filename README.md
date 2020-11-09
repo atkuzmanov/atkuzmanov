@@ -42,6 +42,8 @@
 
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=atkuzmanov)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springboot-maven-parent-pom)](https://github.com/atkuzmanov/genesys-java-springboot-maven-parent-pom)
+
 <!--
 <table border="0" cellspacing="1" cellpadding="2">
   <tbody>
