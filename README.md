@@ -36,19 +36,11 @@
   </tbody>
 </table>
 
-|GITHUB STATS||
+|GITHUB STATS|MOST USED LANGUAGES|
 |:---:|:---:|
 |[![atkuzmanov's github stats](https://github-readme-stats.vercel.app/api?username=atkuzmanov&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atkuzmanov&hide=Rich%20Text%20Format,html,css,python,javascript&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
-|***PINNED REPO:***||
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springboot-maven-parent-pom)](https://github.com/atkuzmanov/genesys-java-springboot-maven-parent-pom)|![Github Page Visit Count](https://komarev.com/ghpvc/?username=atkuzmanov)|
-
-
-<!--
-[![atkuzmanov's github stats](https://github-readme-stats.vercel.app/api?username=atkuzmanov&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atkuzmanov&hide=Rich%20Text%20Format,html,css,python,javascript&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=atkuzmanov)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springboot-maven-parent-pom)](https://github.com/atkuzmanov/genesys-java-springboot-maven-parent-pom)
--->
+|***PINNED REPO***|***PROFILE VIEWS***|
+| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springboot-maven-parent-pom)](https://github.com/atkuzmanov/genesys-java-springboot-maven-parent-pom)|![Github Page Visit Count](https://komarev.com/ghpvc/?username=atkuzmanov) |
 
 <!--
 <table border="0" cellspacing="1" cellpadding="2">
