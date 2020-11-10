@@ -25,6 +25,7 @@
 
 - **[Hackerrank](https://www.hackerrank.com/atkuzmanov?hr_r=1)**
 - **[Docker Hub](https://hub.docker.com/u/atkuzmanov/)**
+- **[Postman](https://explore.postman.com/atkuzmanov)**
       </td>
       <td>
         <a href="https://www.youracclaim.com/badges/77eb4480-a202-44ae-85da-fb729e84081d/public_url"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-ocjp-oracle-certified-professional-java-se-6-programmer.png" alt="ocjp badge" width="150" height="150"/></a>
