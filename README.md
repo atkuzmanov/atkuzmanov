@@ -36,7 +36,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td colspan="2">
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=atkuzmanov)
       </td>
     </tr>
