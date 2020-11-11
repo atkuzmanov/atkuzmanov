@@ -1,6 +1,6 @@
 # Hi there, nice to meet you!
 
-<table border="0" cellspacing="1" cellpadding="2">
+<table cellspacing="1" cellpadding="2" valign="middle" style="border-collapse: collapse; border: none;">
   <tbody>
     <tr>
       <td>
