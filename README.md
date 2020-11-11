@@ -1,6 +1,6 @@
 # Hi there, nice to meet you!
 
-<table cellspacing="1" cellpadding="2" valign="middle" style="border-collapse: collapse; border: none;">
+<table cellspacing="0" cellpadding="0" valign="middle" style="border-collapse: collapse; border: none;">
   <tbody>
     <tr style="border: none;">
       <td style="border: none;">
@@ -36,7 +36,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" style="border: none;">
+      <td colspan="2" style="border: none;" valign="middle">
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=atkuzmanov)
       </td>
     </tr>
