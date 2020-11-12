@@ -70,6 +70,8 @@
       <td align="center">
         <a href="https://golang.org/">
           <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Go GoLang" width="70" height="70"/>
+        <a href="https://golang.org/">
+          <img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" alt="Go GoLang" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
