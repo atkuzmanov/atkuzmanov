@@ -45,7 +45,7 @@
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springboot-docker)](https://github.com/atkuzmanov/genesys-java-springboot-docker)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springbt-parent-pom)](https://github.com/atkuzmanov/genesys-java-springbt-parent-pom)|
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springbt-dockr-kubernts)](https://github.com/atkuzmanov/genesys-java-springbt-dockr-kubernts)||
 
-<table border="0" cellspacing="1" cellpadding="2" allign="center">
+<table border="0" cellspacing="0" cellpadding="0" allign="center">
   <tbody>
     <tr>
       <th colspan="3">CURRENT STACK</th>
@@ -68,18 +68,18 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://kotlinlang.org/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" alt="Kotlin" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
         <a href="https://golang.org/">
           <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Go GoLang" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://nodejs.org/en/">
-          <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/>
+        <a href="https://kotlinlang.org/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" alt="Kotlin" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://reactjs.org/">
+          <img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="ReactJS" width="70" height="70"/>
         </a>
       </td>
     </tr>
@@ -102,8 +102,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://reactjs.org/">
-          <img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="ReactJS" width="70" height="70"/>
+        <a href="https://nodejs.org/en/">
+          <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
