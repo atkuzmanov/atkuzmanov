@@ -45,11 +45,11 @@
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springboot-docker)](https://github.com/atkuzmanov/genesys-java-springboot-docker)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springbt-parent-pom)](https://github.com/atkuzmanov/genesys-java-springbt-parent-pom)|
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springbt-dockr-kubernts)](https://github.com/atkuzmanov/genesys-java-springbt-dockr-kubernts)||
 
-<table border="0" cellspacing="0" cellpadding="0" allign="center">
+<table border="0" cellspacing="1" cellpadding="2" allign="center">
   <tbody>
     <tr>
       <th colspan="3">CURRENT STACK</th>
-      <th colspan="3">INTERESTED IN</th>
+      <th colspan="3" style="border-left: 1px solid">INTERESTED IN</th>
     </tr>
     <tr>
       <td align="center">
@@ -67,7 +67,7 @@
           <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring" width="70" height="70"/>
         </a>
       </td>
-      <td align="center">
+      <td align="center"  border="1" style="border-left: 1px solid">
         <a href="https://golang.org/">
           <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Go GoLang" width="70" height="70"/>
         </a>
