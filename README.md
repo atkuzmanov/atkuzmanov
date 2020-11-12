@@ -61,7 +61,7 @@
 [![atkuzmanov's github stats](https://github-readme-stats.vercel.app/api?username=atkuzmanov&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
       </td>
       <td rowspan="6">
-<table border="0" cellspacing="1" cellpadding="2" allign="center">
+<table border="0" cellspacing="0" cellpadding="0" allign="center">
   <tbody>
     <tr>
       <th colspan="3">CURRENT STACK</th>
