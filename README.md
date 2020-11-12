@@ -206,7 +206,6 @@
 <details>
   <summary> <strong>References & more</strong> </summary>
   <br/>
-
   <blockquote>
   References
 
@@ -234,9 +233,7 @@
 
   <https://golang.org/>
   </blockquote>
-  
-  <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" alt="example temporary" width="480" height="184"/> 
-
+  <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" alt="example temporary" width="480" height="184"/>
 </details>
 
 ---
@@ -255,8 +252,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<!--
-<a href="https://atkuzmanov.wordpress.com/"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-pretty.png" alt="stylized name" width="170" height="120"/></a>
 -->
