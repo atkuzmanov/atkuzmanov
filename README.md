@@ -49,7 +49,7 @@
   <tbody>
     <tr>
       <th colspan="3">CURRENT STACK</th>
-      <th colspan="3" style="border-left: 1px solid">INTERESTED IN</th>
+      <th colspan="3">INTERESTED IN</th>
     </tr>
     <tr>
       <td align="center">
@@ -67,7 +67,7 @@
           <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring" width="70" height="70"/>
         </a>
       </td>
-      <td align="center"  border="1" style="border-left: 1px solid">
+      <td align="center">
         <a href="https://golang.org/">
           <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Go GoLang" width="70" height="70"/>
         </a>
@@ -178,7 +178,7 @@
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center" colspan="6">*In no particular order.</td>
+      <td align="center" colspan="6"><b><i>*In no particular order</i></b>.</td>
     </tr>
   </tbody>
 </table>
