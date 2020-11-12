@@ -45,12 +45,11 @@
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springboot-docker)](https://github.com/atkuzmanov/genesys-java-springboot-docker)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springbt-parent-pom)](https://github.com/atkuzmanov/genesys-java-springbt-parent-pom)|
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springbt-dockr-kubernts)](https://github.com/atkuzmanov/genesys-java-springbt-dockr-kubernts)||
 
-<!--
-<table border="0" cellspacing="1" cellpadding="2">
+<table border="0" cellspacing="1" cellpadding="2" allign="center">
   <tbody>
     <tr>
-      <th>CURRENT STACK</th>
-      <th>INTERESTED IN</th>
+      <th colspan="3">CURRENT STACK</th>
+      <th colspan="3">INTERESTED IN</th>
     </tr>
     <tr>
       <td align="center">
@@ -59,15 +58,23 @@
         </a>
       </td>
       <td align="center">
+        <a href="https://spring.io/projects/spring-boot">
+          <img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="SpringBoot" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://spring.io/">
+          <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
         <a href="https://kotlinlang.org/">
           <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" alt="Kotlin" width="70" height="70"/>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
-        <a href="https://spring.io/projects/spring-boot">
-          <img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="SpringBoot" width="70" height="70"/>
+        <a href="https://golang.org/">
+          <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Go GoLang" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
@@ -78,29 +85,10 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://spring.io/">
-          <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://reactjs.org/">
-          <img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="ReactJS" width="70" height="70"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
         <a href="https://aws.amazon.com/">
           <img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="70" height="70"/>
         </a>
       </td>
-      <td align="center">
-        <a href="https://golang.org/">
-          <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Go GoLang" width="70" height="70"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="">
           <a href="https://www.mysql.com/">
@@ -109,15 +97,18 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.python.org/">
-          <img src="https://devicon.dev/devicon.git/icons/python/python-plain-wordmark.svg" alt="Python" width="70" height="70"/> 
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
         <a href="https://www.mongodb.com/">
           <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongoDB" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://reactjs.org/">
+          <img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="ReactJS" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.python.org/">
+          <img src="https://devicon.dev/devicon.git/icons/python/python-plain-wordmark.svg" alt="Python" width="70" height="70"/> 
         </a>
       </td>
       <td align="center">
@@ -133,27 +124,23 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://en.wikipedia.org/wiki/HTML5">
-          <img src="https://devicon.dev/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="70" height="70"/>
+        <a href="https://en.wikipedia.org/wiki/JavaScript">
+          <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" alt="JavaScript" width="70" height="70"/>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://www.scala-lang.org/">
           <img src="https://devicon.dev/devicon.git/icons/scala/scala-plain-wordmark.svg" alt="Scala" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://en.wikipedia.org/wiki/CSS">
-          <img src="https://devicon.dev/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="CSS css3" width="70" height="70"/>
+        <a href="https://en.wikipedia.org/wiki/HTML5">
+          <img src="https://devicon.dev/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="70" height="70"/>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
-        <a href="https://en.wikipedia.org/wiki/JavaScript">
-          <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" alt="JavaScript" width="70" height="70"/>
+        <a href="https://en.wikipedia.org/wiki/CSS">
+          <img src="https://devicon.dev/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="CSS css3" width="70" height="70"/>
         </a>
       </td>
       <td align="center"></td>
@@ -164,22 +151,14 @@
           <img src="https://devicon.dev/devicon.git/icons/docker/docker-plain-wordmark.svg" alt="docker" width="70" height="70"/>
         </a>
       </td>
-      <td align="center"></td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://kubernetes.io/">
           <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" height="70"/>
         </a>
       </td>
       <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://en.wikipedia.org/wiki/Linux">
-          <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/>
-        </a>
-      </td>
+      <td align="center"></td>
+      <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
@@ -188,14 +167,21 @@
           <img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" alt="apple mac osx" width="70" height="70"/>
         </a>
       </td>
+      <td align="center">
+        <a href="https://en.wikipedia.org/wiki/Linux">
+          <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/>
+        </a>
+      </td>
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center" colspan="2">*In no particular order.</td>
+      <td align="center" colspan="6">*In no particular order.</td>
     </tr>
   </tbody>
 </table>
--->
 
 ---
 
