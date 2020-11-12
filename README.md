@@ -43,6 +43,7 @@
 |![Github Page Visit Count](https://komarev.com/ghpvc/?username=atkuzmanov)||
 |***PINNED REPO***|***PINNED REPO***|
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springboot-docker)](https://github.com/atkuzmanov/genesys-java-springboot-docker)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springboot-maven-parent-pom)](https://github.com/atkuzmanov/genesys-java-springboot-maven-parent-pom)|
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springboot-docker-kubernetes)](https://github.com/atkuzmanov/genesys-java-springboot-docker-kubernetes)||
 
 <!--
 <table border="0" cellspacing="1" cellpadding="2">
