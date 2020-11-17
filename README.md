@@ -204,6 +204,15 @@
 
 ***Lost all my repositories, so some things here could be ancient remnants I salvaged, despite the new date.***
 
+<details>
+  <summary> <strong>Details</strong> </summary>
+  <br/>
+
+- **[Financial Times (FT) GitHub 90% private repos](https://github.com/atanaskuzmanov-ft)**
+- **[BBC GitHub 100% private repos](https://github.com/atanaskuzmanov)**
+- **[Old 99% deleted defunct GitHub](https://github.com/atkuzmanov-zz)**
+</details>
+
 ---
 
 <details>
