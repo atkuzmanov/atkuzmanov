@@ -26,7 +26,6 @@
         <br>
         <a href="https://linktr.ee/atkuzmanov"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov%20linktr%202020-08-13.png" alt="linktree qr code" width="130" height="130"/></a>
         <br>
-       <!-- <a href="https://atkuzmanov.wordpress.com/"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-pretty.png" alt="stylized name" width="170" height="120"/></a> -->
       </td>
   </tbody>
 </table>
@@ -39,7 +38,7 @@
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springboot-docker)](https://github.com/atkuzmanov/genesys-java-springboot-docker)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springbt-parent-pom)](https://github.com/atkuzmanov/genesys-java-springbt-parent-pom)|
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springbt-dockr-kubernts)](https://github.com/atkuzmanov/genesys-java-springbt-dockr-kubernts)||
 
-<table border="0" cellspacing="1" cellpadding="1" allign="center">
+<table border="0" cellspacing="0" cellpadding="0" allign="center">
   <tbody>
     <tr>
       <th colspan="3">CURRENT STACK</th>

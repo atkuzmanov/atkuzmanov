@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 2020-12-08 sig bkp-->
+<!--
+       <a href="https://atkuzmanov.wordpress.com/"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-pretty.png" alt="stylized name" width="170" height="120"/></a>
+-->
 
 <!-- 2020-11-12 PROFILE TABLE -->
 <!--
