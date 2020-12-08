@@ -24,7 +24,7 @@
       <td style="border: none;">
         <a href="https://www.youracclaim.com/badges/77eb4480-a202-44ae-85da-fb729e84081d/public_url"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-ocjp-oracle-certified-professional-java-se-6-programmer.png" alt="ocjp badge" width="130" height="130"/></a>
         <br>
-        <a href="https://linktr.ee/atkuzmanov"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov%20linktr%202020-08-13.png" alt="linktree qr code" width="130" height="130"/></a>
+        <a href="https://linktr.ee/atkuzmanov"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov%20linktr%202020-08-13.png" alt="linktree qr code" width="150" height="150"/></a>
         <br>
       </td>
   </tbody>
