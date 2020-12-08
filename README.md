@@ -6,33 +6,27 @@
       <td style="border: none;">
 
 - **[Check out my GitHub](https://github.com/atkuzmanov)**
-
 - **[Have you checked out my LinkedIn?!](https://www.linkedin.com/in/atkuzmanov/)**
-
 - **[Hang out with me on Twitter](https://twitter.com/atkuzmanov)**
-
 - **[My website / Business card](https://atkuzmanov.wordpress.com/)**
-
 - **[LinkTree](https://linktr.ee/atkuzmanov)**
-
 - **[StackOverflow](https://stackoverflow.com/users/2356062/atkuzmanov)**
-
 - **[Instagram](https://www.instagram.com/atkuzmanov/)**
-
 - **[Found anything useful?! Buy me a cup of coffee if you feel like it. Thanks!️](https://sites.google.com/view/atkuzmanov/home) ☕**
-
 - [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V22AJ80)
-
 <!-- - **[Hackerrank](https://www.hackerrank.com/atkuzmanov?hr_r=1)** -->
+<!-- - **[LeetCode](https://leetcode.com/atkuzmanov/)** -->
+<!--- **[Repl.it](https://repl.it/@atkuzmanov)** -->
+<!--- **[Repl.it Referral](https://repl.it/upgrade/atkuzmanov)** -->
 - **[Docker Hub](https://hub.docker.com/u/atkuzmanov/)**
 - **[Postman](https://explore.postman.com/atkuzmanov)**
       </td>
       <td style="border: none;">
-        <a href="https://www.youracclaim.com/badges/77eb4480-a202-44ae-85da-fb729e84081d/public_url"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-ocjp-oracle-certified-professional-java-se-6-programmer.png" alt="ocjp badge" width="150" height="150"/></a>
+        <a href="https://www.youracclaim.com/badges/77eb4480-a202-44ae-85da-fb729e84081d/public_url"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-ocjp-oracle-certified-professional-java-se-6-programmer.png" alt="ocjp badge" width="130" height="130"/></a>
         <br>
-        <a href="https://linktr.ee/atkuzmanov"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov%20linktr%202020-08-13.png" alt="linktree qr code" width="150" height="150"/></a>
+        <a href="https://linktr.ee/atkuzmanov"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov%20linktr%202020-08-13.png" alt="linktree qr code" width="130" height="130"/></a>
         <br>
-        <a href="https://atkuzmanov.wordpress.com/"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-pretty.png" alt="stylized name" width="170" height="120"/></a>
+       <!-- <a href="https://atkuzmanov.wordpress.com/"><img src="https://raw.githubusercontent.com/atkuzmanov/atkuzmanov/master/resources/atkuzmanov-pretty.png" alt="stylized name" width="170" height="120"/></a> -->
       </td>
   </tbody>
 </table>
@@ -45,7 +39,7 @@
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springboot-docker)](https://github.com/atkuzmanov/genesys-java-springboot-docker)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springbt-parent-pom)](https://github.com/atkuzmanov/genesys-java-springbt-parent-pom)|
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=atkuzmanov&repo=genesys-java-springbt-dockr-kubernts)](https://github.com/atkuzmanov/genesys-java-springbt-dockr-kubernts)||
 
-<table border="0" cellspacing="1" cellpadding="2" allign="center">
+<table border="0" cellspacing="1" cellpadding="1" allign="center">
   <tbody>
     <tr>
       <th colspan="3">CURRENT STACK</th>
