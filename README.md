@@ -47,7 +47,7 @@
     <tr>
       <td align="center">
         <a href="https://www.java.com/en/">
-          <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" width="70" height="70"/>
+          <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
@@ -57,7 +57,7 @@
       </td>
       <td align="center">
         <a href="https://spring.io/">
-          <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring" width="70" height="70"/>
+          <img src="https://spring.io/images/projects/spring-framework-640ad1b04f7efa89e0f0f7353e6b5e02.svg?v=2" alt="Spring" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
@@ -65,7 +65,7 @@
           <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Go GoLang" width="70" height="70"/>
         </a>
         <a href="https://golang.org/">
-          <img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" alt="Go GoLang" width="70" height="70"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Golang.png" alt="Go GoLang" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
@@ -75,68 +75,68 @@
       </td>
       <td align="center">
         <a href="https://reactjs.org/">
-          <img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="ReactJS" width="70" height="70"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="70" height="70"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://aws.amazon.com/">
-          <img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="70" height="70"/>
+          <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
         <a href="">
           <a href="https://www.mysql.com/">
-            <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL SQL" width="70" height="70"/>
+            <img src="https://upload.wikimedia.org/wikipedia/en/e/ee/MySQL_Logo.png" alt="MySQL SQL" width="70" height="70"/>
           </a>
         </a>
       </td>
       <td align="center">
         <a href="https://www.mongodb.com/">
-          <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongoDB" width="70" height="70"/>
+          <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="mongoDB" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
         <a href="https://nodejs.org/en/">
-          <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
         <a href="https://www.python.org/">
-          <img src="https://devicon.dev/devicon.git/icons/python/python-plain-wordmark.svg" alt="Python" width="70" height="70"/> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="Python" width="70" height="70"/> 
         </a>
       </td>
       <td align="center">
         <a href="https://angularjs.org/">
-          <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-plain-wordmark.svg" alt="AngularJS" width="70" height="70"/>
+          <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="AngularJS" width="70" height="70"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/">
-          <img src="https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg" alt="git" width="70" height="70"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" alt="git" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
         <a href="https://en.wikipedia.org/wiki/JavaScript">
-          <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" alt="JavaScript" width="70" height="70"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
         <a href="https://www.scala-lang.org/">
-          <img src="https://devicon.dev/devicon.git/icons/scala/scala-plain-wordmark.svg" alt="Scala" width="70" height="70"/>
+          <img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="Scala" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
         <a href="https://en.wikipedia.org/wiki/HTML5">
-          <img src="https://devicon.dev/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="70" height="70"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
         <a href="https://en.wikipedia.org/wiki/CSS">
-          <img src="https://devicon.dev/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="CSS css3" width="70" height="70"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS css3" width="70" height="70"/>
         </a>
       </td>
       <td align="center"></td>
@@ -144,7 +144,7 @@
     <tr>
       <td align="center">
         <a href="https://www.docker.com/">
-          <img src="https://devicon.dev/devicon.git/icons/docker/docker-plain-wordmark.svg" alt="docker" width="70" height="70"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="docker" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
@@ -160,12 +160,12 @@
     <tr>
       <td align="center">
         <a href="https://en.wikipedia.org/wiki/MacOS">
-          <img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" alt="apple mac osx" width="70" height="70"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="apple mac osx" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
         <a href="https://en.wikipedia.org/wiki/Linux">
-          <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="70" height="70"/>
         </a>
       </td>
       <td align="center"></td>
@@ -212,7 +212,7 @@
   <summary> <strong>References & more</strong> </summary>
   <br/>
   <blockquote>
-  References
+  References:
 
   <https://pixabay.com/photos/abstract-art-modern-art-design-1245745/>
 
@@ -229,14 +229,83 @@
   <https://devicon.dev/>
 
   <https://www.iconfinder.com/>
+  </blockquote>
+  <blockquote>
+  Tech stack logo images references:
+
+  <https://www.java.com/en/>
+  <https://go.java/oce/assets/images/CONT9BB45F30C47F489B91D36198A6449A06/native/jc06-java-logo.png>
+  <https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg>
 
   <https://spring.io/>
-
-  <https://en.wikipedia.org/wiki/Kotlin_(programming_language)>
-
-  <https://en.wikipedia.org/wiki/Kubernetes>
+  <https://spring.io/images/projects/spring-framework-640ad1b04f7efa89e0f0f7353e6b5e02.svg?v=2>
+  <https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg>
+  <https://en.wikipedia.org/wiki/Spring_Framework#/media/File:Spring_Framework_Logo_2018.svg>
 
   <https://golang.org/>
+  <https://golang.org/lib/godoc/images/go-logo-blue.svg>
+  <https://golang.org/doc/gopher/doc.png>
+  <https://upload.wikimedia.org/wikipedia/commons/2/23/Golang.png>
+
+  <https://kotlinlang.org/>
+  <https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg>
+
+  <https://reactjs.org/>
+  <https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg>
+
+  <https://aws.amazon.com/>
+  <https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png>
+
+  <https://www.mysql.com/>
+  <https://upload.wikimedia.org/wikipedia/en/e/ee/MySQL_Logo.png>
+
+  <https://www.mongodb.com/>
+  <https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg>
+
+  <https://nodejs.org/en/>
+  <https://nodejs.org/static/images/logo.svg>
+  <https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg>
+
+  <https://www.python.org/>
+  <https://www.python.org/static/img/python-logo.png>
+  <https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg>
+
+  <https://angular.io/>
+  <https://angular.io/assets/images/logos/angular/angular.svg>
+  <https://angularjs.org/>
+  <https://upload.wikimedia.org/wikipedia/commons/c/ca/AngularJS_logo.svg>
+  <https://en.wikipedia.org/wiki/Angular_(web_framework)#/media/File:Angular_full_color_logo.svg>
+
+  <https://github.com/>
+  <https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg>
+  <https://upload.wikimedia.org/wikipedia/commons/e/ef/Octicons-logo-github.svg>
+
+  <https://en.wikipedia.org/wiki/JavaScript>
+  <https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png>
+
+  <https://www.scala-lang.org/>
+  <https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png>
+  <https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg>
+
+  <https://en.wikipedia.org/wiki/HTML5>
+  <https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg>
+
+  <https://en.wikipedia.org/wiki/CSS>
+  <https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg>
+
+  <https://www.docker.com/>
+  <https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg>
+
+  <https://kubernetes.io/>
+  <https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg>
+
+  <https://www.apple.com/>
+  <https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg>
+  <https://en.wikipedia.org/wiki/MacOS>
+  <https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg>
+
+  <https://en.wikipedia.org/wiki/Linux>
+  <https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg>
   </blockquote>
   <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" alt="example temporary" width="480" height="184"/>
 </details>
