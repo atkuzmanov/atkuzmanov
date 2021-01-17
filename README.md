@@ -64,9 +64,9 @@
         <a href="https://golang.org/">
           <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Go GoLang" width="70" height="70"/>
         </a>
-        <a href="https://golang.org/">
+        <!-- <a href="https://golang.org/">
           <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Golang.png" alt="Go GoLang" width="70" height="70"/>
-        </a>
+        </a> -->
       </td>
       <td align="center">
         <a href="https://kotlinlang.org/">
