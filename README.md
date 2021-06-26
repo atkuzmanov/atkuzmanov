@@ -90,7 +90,7 @@
       <td align="center">
         <a href="">
           <a href="https://www.mysql.com/">
-            <img src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png" alt="MySQL SQL" width="70" height="70"/>
+            <img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL SQL" width="70" height="70"/>
           </a>
         </a>
       </td>
