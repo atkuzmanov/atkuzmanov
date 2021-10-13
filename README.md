@@ -70,7 +70,9 @@
       </td>
       <td align="center">
         <a href="https://kotlinlang.org/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" alt="Kotlin" width="70" height="70"/>
+          <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg" alt="Kotlin" width="70" height="70"/> -->
+          <!-- <img src="https://kotlinlang.org/assets/images/user-group/kotlin-user-group-avatar.png" alt="Kotlin" width="70" height="70"/> -->
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" alt="Kotlin" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
@@ -88,7 +90,7 @@
       <td align="center">
         <a href="">
           <a href="https://www.mysql.com/">
-            <img src="https://upload.wikimedia.org/wikipedia/en/e/ee/MySQL_Logo.png" alt="MySQL SQL" width="70" height="70"/>
+            <img src="https://www.mysql.com/common/logos/powered-by-mysql-125x64.png" alt="MySQL SQL" width="70" height="70"/>
           </a>
         </a>
       </td>
