@@ -96,7 +96,7 @@
       </td>
       <td align="center">
         <a href="https://www.mongodb.com/">
-          <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="mongoDB" width="70" height="70"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="mongoDB" width="70" height="70"/>
         </a>
       </td>
       <td align="center">
